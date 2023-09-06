@@ -1,0 +1,2 @@
+# maschinenschluessel
+Daily key generator
