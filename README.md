@@ -1,2 +1,2 @@
-# maschinenschluessel
-Daily key generator
+# Maschinenschluessel
+Daily key generator for enigma machines
